@@ -1,0 +1,6 @@
+001042ABC Company              123 Main Street          Building 1               Somewhere           US12345000000101001Wrench      19.95  
+001042ABC Company              123 Main Street          Building 1               Somewhere           US12345000000020101Table Saw 1995.95
+012768XYZ Inc                  56 First Boulevard                                Anytown             US98765432102010001Widget       9.98  
+012768XYZ Inc                  56 First Boulevard                                Anytown             US98765432102001011Product A   19.98
+012768XYZ Inc                  56 First Boulevard                                Anytown             US98765432102001011Product B    0.98
+929208Best Prices R Us         1313 Mockingbird Ln      Suite C	                 Pleasantville       US88888999903150099Thing 1      2.29   

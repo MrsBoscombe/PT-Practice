@@ -1,0 +1,32 @@
+ABC Company              
+123 Main Street          
+Building 1
+Somewhere, US 12345
+
+  SKU   Quantity Description Price
+
+      1010      1 Wrench              $19.95
+
+      0201      1 Table Saw        $1,995.95
+
+XYZ Inc                  
+56 First Boulevard       
+Anytown, US 98765-0201
+
+  SKU   Quantity Description Price
+
+      0100      1 Widget               $9.98
+
+      0010     11 Product A           $19.98
+
+      0010     11 Product B            $0.98
+
+Best Prices R Us         
+1313 Mockingbird Ln      
+Suite C
+Pleasantville, US 88888-0315
+
+  SKU   Quantity Description Price
+
+      1500     99 Thing 1              $2.29
+
