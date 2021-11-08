@@ -8,6 +8,9 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button x:Name="openFile" Content="Open File" HorizontalAlignment="Left" Margin="350,295,0,0" VerticalAlignment="Top" Width="75" Click="openFile_Click"/>
+        <ListBox x:Name="myListBox" HorizontalAlignment="Left" Height="211" Margin="231,56,0,0" VerticalAlignment="Top" Width="307">
+            
+        </ListBox>
 
     </Grid>
 </Window>
